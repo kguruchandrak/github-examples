@@ -1,2 +1,3 @@
 Hi 
-This is chapter 2 file
+This is chapter 2 file.
+Under - Commit 2 and 3
